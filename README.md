@@ -1,9 +1,12 @@
 # Spotify splash clone
 A clone for Spotify splash page(Taiwan). 
 
-Library used:
+📚Library used:
 - React
-- material-ui
+- Material-ui
 
-Build tool:
+🎨Styling:
+- Material-ui: makeStyles
+
+📦Build tool:
 - parcel
